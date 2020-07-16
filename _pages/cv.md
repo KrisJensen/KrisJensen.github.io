@@ -61,7 +61,7 @@ a.cv:visited {
 
 - University of Cambridge
 - Result: First Class Honors (82.7/100; 1<sup>st</sup> of 112 students)
-- Specialization: Molecular Biology & Theoretical Chemistry\\
+- Specialization: Molecular Biology & Theoretical Chemistry
 
 ## Research
 
