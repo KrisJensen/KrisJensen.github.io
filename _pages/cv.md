@@ -21,22 +21,6 @@ a.cv:visited {
   background-color: transparent;
   text-decoration: none;
 }
-li{
-    margin-left: 20px;
-}
-</style>
-</head><head>
-<style>
-a.cv:link {
-  color: #003CA4;
-  background-color: transparent;
-  text-decoration: none;
-}
-a.cv:visited {
-  color: #003CA4;
-  background-color: transparent;
-  text-decoration: none;
-}
 </style>
 </head>
 
