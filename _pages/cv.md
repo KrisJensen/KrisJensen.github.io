@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<a style="font-weight:bold" class="cv" href="http://127.0.0.1:4000//files/cv.pdf">Download</a>
+<a style="font-weight:bold" class="cv" href="http://KrisJensen.github.io/files/cv.pdf">Download</a>
 
 ## Education
 
