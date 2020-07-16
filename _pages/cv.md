@@ -43,7 +43,7 @@ li{
 </style>
 </head>
 
-<a style="font-weight:bold" class="cv" href="http://KrisJensen.github.io/files/cv.pdf">Download</a>
+<p style="padding-bottom:-4px; margin-bottom:-4px"> <a style="font-weight:bold" class="cv" href="http://KrisJensen.github.io/files/cv.pdf">Download</a> </p>
 
 ## Education
 
