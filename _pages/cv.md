@@ -60,7 +60,7 @@ a.cv:visited {
 <p style="padding-bottom:-8px; margin-bottom:-8px"> <b>BA Natural Sciences</b> </p>
 
 - University of Cambridge
-- Result: First Class Honors (82.7/100; 1\textsuperscript{st} of 112 students)
+- Result: First Class Honors (82.7/100; 1<sup>st</sup> of 112 students)
 - Specialization: Molecular Biology & Theoretical Chemistry\\
 
 ## Research
