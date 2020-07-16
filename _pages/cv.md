@@ -9,6 +9,40 @@ redirect_from:
 
 {% include base_path %}
 
+<head>
+<style>
+a.cv:link {
+  color: #003CA4;
+  background-color: transparent;
+  text-decoration: none;
+}
+a.cv:visited {
+  color: #003CA4;
+  background-color: transparent;
+  text-decoration: none;
+}
+li{
+    margin-left: 20px;
+}
+</style>
+</head><head>
+<style>
+a.cv:link {
+  color: #003CA4;
+  background-color: transparent;
+  text-decoration: none;
+}
+a.cv:visited {
+  color: #003CA4;
+  background-color: transparent;
+  text-decoration: none;
+}
+li{
+    margin-left: 20px;
+}
+</style>
+</head>
+
 <a style="font-weight:bold" class="cv" href="http://KrisJensen.github.io/files/cv.pdf">Download</a>
 
 ## Education
