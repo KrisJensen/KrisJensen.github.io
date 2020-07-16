@@ -26,8 +26,8 @@ a.rec:visited {
 </style>
 </head>
 
-The world wide web is full of excellent resources for expanding our knowledge of neuroscience, machine learning, and other scientific disciplines.
-Unfortunately it's not always to know where to look.
+The world wide web is full of excellent resources for learning more about neuroscience, machine learning, and many other interesting topics.
+Unfortunately it's not always easy to know where to look.
 Here is a short list of talks, tutorials and papers that I've found particularly insightful over the course of my own studies, and I would highly recommend anyone to have a look if they have time.
 
 ## Talks
