@@ -11,7 +11,7 @@ redirect_from:
 
 ## Manifold Gaussian process latent variable models
 
-<img src="https://krisjensen.github.io/images/concept.png" alt="pretty picture" width="60%" style="float: top">
+<img src="https://krisjensen.github.io/images/concept.png" alt="pretty picture" width="10%" style="float: top">
 
 {: style="text-align: justify" }
 Methods for dimensionality reduction such as PCA, tSNE, GPFA, LFADS etc. are frequently used in neuroscience to try to decipher what low-dimensional quantities are represented by high-dimensional neural activity.
