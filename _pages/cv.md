@@ -37,13 +37,10 @@ a.cv:visited {
   background-color: transparent;
   text-decoration: none;
 }
-li{
-    margin-left: 20px;
-}
 </style>
 </head>
 
-<p style="padding-bottom:-4px; margin-bottom:-4px"> <a style="font-weight:bold" class="cv" href="http://KrisJensen.github.io/files/cv.pdf">Download</a> </p>
+<p style="padding-bottom:-8px; margin-bottom:-8px"> <a style="font-weight:bold" class="cv" href="http://KrisJensen.github.io/files/cv.pdf">Download</a> </p>
 
 ## Education
 

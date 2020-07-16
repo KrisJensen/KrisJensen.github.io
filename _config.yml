@@ -10,7 +10,7 @@ locale: "en-US"
 title: "Kris Jensen"
 title_separator: "-"
 name: &name "Kris Jensen"
-description: &description "PhD Student"
+description: &description "PhD Student in Computational Neuroscience"
 url: https://KrisJensen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
 repository: "KrisJensen.github.io"
@@ -85,7 +85,7 @@ author:
   employer:
   pubmed:
   googlescholar: #"http://yourfullgooglescholarurl.com"
-  email:
+  email: ktj21@cam.ac.uk
   researchgate: # example: "https://www.researchgate.net/profile/yourprofile"
   uri:
   bitbucket:
