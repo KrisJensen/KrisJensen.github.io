@@ -1,9 +1,12 @@
 # main links links
 main:
-  - title: "Papers"
+  - title: "Projects"
+    url: /projects/
+
+  - title: "My publications"
     url: /publications/
 
-  - title: "Better papers & talks"
+  - title: "Better publications & talks"
     url: /recommendations/
 
   - title: "CV"
