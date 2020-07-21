@@ -84,8 +84,8 @@ author:
   location: "University of Cambridge"
   employer:
   pubmed:
-  googlescholar: #"http://yourfullgooglescholarurl.com"
-  email: ktj21@cam.ac.uk
+  googlescholar: "https://scholar.google.com/citations?hl=en&user=B_2ZE_cAAAAJ"
+  email: "ktj21@cam.ac.uk"
   researchgate: # example: "https://www.researchgate.net/profile/yourprofile"
   uri:
   bitbucket:
