@@ -56,6 +56,12 @@ While deep reinforcemnt learning have given us a way to unlock previously unprec
 ## Tutorials
 
 {: style="text-align: justify" }
+<a class="rec" href="https://www.neuromatchacademy.org/syllabus">Neuromatch Academy</a><br>
+<b>Neuromatch organizers and volunteers (2020)</b><br>
+Arguably the best resource available for learning computational neuroscience.
+Three weeks worth of material starting from simple principles of model selection and model fitting and moving to tutorials on dynamical systems and control, principles of deep learning & machine learning as applied to neuroscience, and much much more.
+
+{: style="text-align: justify" }
 <a class="rec" href="http://statisticalml.stat.columbia.edu/event/tutorials-on-reinforcement-learning/">The Mathematical Foundations of Policy Gradient Methods</a><br>
 <b>Sham Kakade (2020)</b><br>
 This tutorial provides a really useful overview of the policy gradient methods that underlie much of modern RL, and Sham Kakade does an excellent job explaining things in a way that provides intuition to accompany the equations.
