@@ -2,7 +2,7 @@
 permalink: /
 title: "About"
 excerpt: "About"
-driveId: 1Cfc_haeGad52RpIs8VWsglo4q7FpOejN/preview
+driveId: 1XVt1yewoi_6W_kok9ARMyKGDFp7AFU-m/preview
 author_profile: true
 redirect_from:
   - /about/
