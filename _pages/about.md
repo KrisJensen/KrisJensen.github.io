@@ -17,3 +17,5 @@ In addition to our neuroscience research, CBL is home to a range of excellent Ma
 {: style="text-align: justify" }
 Prior to my PhD, I worked with Bence Ölveczky at Harvard Center for Brain Science as part of my MPhil in Computational Biology, and with Vivek Jayaraman at Janelia Research Campus as a Janelia Undergraduate Scholar (see projects and publications for details).
 Before moving into neuroscience, I graduated with a BA in Natural Sciences from Cambridge where I did courses and research in both molecular biology and theoretical chemistry, and I continue to be interested in interdisciplinary research spanning the biological and physical sciences.
+
+{% include googleDrivePlayer.html id=1Cfc_haeGad52RpIs8VWsglo4q7FpOejN/preview %}
