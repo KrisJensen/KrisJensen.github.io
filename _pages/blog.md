@@ -24,9 +24,14 @@ a.blog:visited {
 </style>
 </head>
 
-<a style="font-weight:bold" class="blog" href="http://KrisJensen.github.io/files/bias_blog.pdf">
+<p style="padding-bottom:-8px; margin-bottom:-8px">
+<a style="font-weight:bold; font-size:3em" class="blog" href="http://KrisJensen.github.io/files/bias_blog.pdf">
 Bayesian correction of systematic reviewer bias
 </a>
+</p>
 
 {: style="text-align: justify" }
-We rely increasingly on large-scale conferences for distributing our research and even assessing the quality of researchers. Unfortunately we don't have infinite review resources. However, we can treat the network of reviewers and papers as a big graph, taking into account interactions between reviewers of the same papers to fit a Bayesian model that takes into account systematic biases when assessing the quality of papers.
+We rely increasingly on large-scale conferences for distributing our research, and conference presentations is even seen as a quality-stamp for early-career researchers.
+Despite the importance this puts on fair selection processes, conference organizers unfortunately do not have unlimited resources for reviewing submissions.
+This leads to stochasticity in the review outcome depending on whether a submission is assigned 'good' or 'bad' reviewers.
+However, by writing down a Bayesian model that takes into account interactions between reviewers sharing submissions, we can explicitly remove systematic deviations from the mean across reviewers when assessing the quality of papers.
