@@ -26,7 +26,7 @@ a.blog:visited {
 </style>
 </head>
 
-<p style="padding-bottom:-8px; margin-bottom:-8px">
+<p style="padding-bottom:-12px; margin-bottom:-12px; padding-top:8px; margin-top:8px">
 <a style="font-size:1.5em" class="blog" href="http://KrisJensen.github.io/files/bias_blog.pdf">
 Bayesian correction of systematic reviewer bias
 </a>
