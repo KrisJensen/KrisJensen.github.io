@@ -33,7 +33,7 @@ Bayesian correction of systematic reviewer bias
 </p>
 
 {: style="text-align: justify" }
-We rely increasingly on large-scale conferences for distributing our research, and conference presentations is even seen as a quality-stamp for early-career researchers.
+We rely increasingly on large-scale conferences for distributing our research, and conference presentations are often considered a quality-stamp for early-career researchers.
 Despite the importance this puts on fair selection processes, conference organizers unfortunately do not have unlimited resources for reviewing submissions.
 This leads to stochasticity in the review outcome depending on whether a submission is assigned 'good' or 'bad' reviewers.
-However, by writing down a Bayesian model that takes into account interactions between reviewers sharing submissions, we can explicitly remove systematic deviations from the mean across reviewers when assessing the quality of papers.
+However, by considering a Bayesian model that takes into account interactions between reviewers sharing submissions, we can explicitly remove systematic deviations from the mean across reviewers when assessing the quality of such submissions.
