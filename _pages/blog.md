@@ -14,18 +14,20 @@ redirect_from:
 a.blog:link {
   color: #003CA4;
   background-color: transparent;
-  text-decoration: none;
+  text-decoration: underline;
+  font-weight:bold;
 }
 a.blog:visited {
   color: #003CA4;
   background-color: transparent;
-  text-decoration: none;
+  text-decoration: underline;
+  font-weight:bold;
 }
 </style>
 </head>
 
 <p style="padding-bottom:-8px; margin-bottom:-8px">
-<a style="font-weight:bold; font-size:1.5em" class="blog" href="http://KrisJensen.github.io/files/bias_blog.pdf">
+<a style="font-size:1.5em" class="blog" href="http://KrisJensen.github.io/files/bias_blog.pdf">
 Bayesian correction of systematic reviewer bias
 </a>
 </p>
