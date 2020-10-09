@@ -36,7 +36,7 @@ Here is a short list of talks, tutorials and papers that I've found particularly
 {: style="text-align: justify" }
 <a class="rec" href="https://www.youtube.com/watch?v=E29uad2FUVE&t=280s">About a biological ring attractor network</a><br>
 <b>Vivek Jayaraman (2020)</b><br>
-The human brain has ~100 billion neurons, the mouse brain ~100 million, and the fly brain just 250,000. However, we're increasingly starting to understand how function and cognition arises from these 250,000 fly neurons, and this talk gives an awesome overview of how this understanding emerges in the context of the drosophila navigation system.
+The human brain has ~100 billion neurons, the mouse brain ~100 million, and the fly brain just 250,000. However, we're increasingly beginning to understand how function and cognition arises from these 250,000 fly neurons, and this talk gives an awesome overview of how this understanding emerges in the context of the <i>Drosophila</i> navigation system.
 
 {: style="text-align: justify" }
 <a class="rec" href="https://bcs.mit.edu/news-events/media/seminar-earl-miller-working-memory-20">Working memory 2.0</a><br>
@@ -69,8 +69,13 @@ This tutorial provides a really useful overview of the policy gradient methods t
 ## Papers
 
 {: style="text-align: justify" }
+<a class="rec" href="https://www.nature.com/articles/s41593-018-0147-8#Abs1">Prefrontal cortex as a meta-reinforcement learning system</a><br>
+<b>Jane Wang, Zeb Kurth-Nelson et al. (2018)</b><br>
+Deep reinforcement learning is becoming increasingly important in both AI and neuroscience, and I've joined the bandwagon of people convinced that it will be one of the keys to understanding the human brain. This paper shows how a plethora of observations in biological agents can be explain by teaching PFC to implement task-specific reinforcement learning algorithms in its internal dynamics via a slower `meta-reinforcement learning' loop across tasks.
+
+{: style="text-align: justify" }
 <a class="rec" href="http://jmlr.org/papers/volume15/srivastava14b/srivastava14b.pdf">Multimodal Learning with Deep Boltzmann Machines</a><br>
-<b>Srivastava and Salakhutdinov (2014)</b><br>
+<b>Nitish Srivastava and Ruslan Salakhutdinov (2014)</b><br>
 I'm convinced that multisensory alignment will turn out to be important for organizing neural circuits in early development, and this is a cool paper illustrating how two sensory modalities can be used to generate a powerful inference model in a machine learning model.
 
 {: style="text-align: justify" }
@@ -85,7 +90,7 @@ Electric fish sense the weak electric signals from their prey but also produce t
 
 {: style="text-align: justify" }
 <a class="rec" href="https://www.nature.com/articles/s41593-019-0534-9">Neural circuits for evidence accumulation and decision making in larval zebrafish</a><br>
-<b>Bahl and Engert (2019)</b><br>
+<b>Armin Bahl and Florian Engert (2019)</b><br>
 Evidence accumulation, decision making and sensory-driven motion are ubiquitous across organisms, and in this awesome work, Armin Bahl uses lightsheet imaging in thee zebrafish brain to elucidate how these algorithms are implemented at a mechanistic level in the context of the fish optomotor response.
 
 {: style="text-align: justify" }
