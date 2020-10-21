@@ -7,6 +7,23 @@ redirect_from:
   - /projects
 ---
 
+<head>
+<style>
+a.rec:link {
+  color: #003CA4;
+  background-color: transparent;
+  text-decoration: underline;
+  font-weight:bold;
+}
+a.rec:visited {
+  color: #003CA4;
+  background-color: transparent;
+  text-decoration: underline;
+  font-weight:bold;
+}
+</style>
+</head>
+
 {% include base_path %}
 
 ## Manifold Gaussian process latent variable models
@@ -19,7 +36,7 @@ However, these methods implicitly assume Euclidean latent states which is at odd
 With Calvin Kao and Guillaume Hennequin in the CBL, we build on work by Anqi Wu in Jonathan Pillow's lab to extend the Gaussian Process Latent Variable Model originally developed by Neil Lawrence to cases where the latent space is no longer Euclidean.
 We expect this framework to be useful for querying spatial representations in the brain ranging from navigation circuits to cognitive processes and motor control.
 Current work-in-progress includes extending the probabilistic mGPLVM framework to a Poisson noise model, adding a prior over the temporal smoothness of neural activity, and further applying the framework to experimental data.
-We are also working on a general-purpose python implementation which we will release shortly, but until then please contact us if you want access to our partially-finished codebase.
+<a class="rec" href="https://github.com/tachukao/mgplvm-pytorch">Code</a><br>.
 
 ## Stability of motor memories
 
