@@ -74,6 +74,11 @@ This tutorial provides a really useful overview of the policy gradient methods t
 Deep reinforcement learning is becoming increasingly important in both AI and neuroscience, and I've joined the bandwagon of people convinced that it will be one of the keys to understanding the human brain. This paper shows how a plethora of observations in biological agents can be explain by teaching PFC to implement task-specific reinforcement learning algorithms in its internal dynamics via a slower `meta-reinforcement learning' loop across tasks.
 
 {: style="text-align: justify" }
+<a class="rec" href="https://www.nature.com/articles/s41593-018-0147-8#Abs1">What grid cells convey about rat location</a><br>
+<b>Ila Fiete et al. (2009)</b><br>
+Grid cells have long been considered one of the most baffling findings in modern systems neuroscience. In this work, Ila Fiete and colleagues propose that grid cells represent a 'modulo code' for counting and highlights several important features of such a code, including exponential capacity and the ability to update individual modules using only local information. This provides key insights into why the brain might use periodic codes and gives intuition for why so many artificial agents have been found to learn grid-like codes in more recent computational studies.
+
+{: style="text-align: justify" }
 <a class="rec" href="http://jmlr.org/papers/volume15/srivastava14b/srivastava14b.pdf">Multimodal Learning with Deep Boltzmann Machines</a><br>
 <b>Nitish Srivastava and Ruslan Salakhutdinov (2014)</b><br>
 I'm convinced that multisensory alignment will turn out to be important for organizing neural circuits in early development, and this is a cool paper illustrating how two sensory modalities can be used to generate a powerful inference model in a machine learning model.
@@ -81,7 +86,7 @@ I'm convinced that multisensory alignment will turn out to be important for orga
 {: style="text-align: justify" }
 <a class="rec" href="https://www.nature.com/articles/s41586-019-1767-1">Generation of stable heading representations in diverse visual scenes</a><br>
 <b>Sung Soo Kim et al. (2019)</b><br>
-This paper uses 2-photon imaging to investigate how visual scenes are mapped onto head direction circuits in <i>Drosophila</i> and includes both awesome experimental work by Sun Soo Kim and cool modelling work by Ann Hermundstad.
+This paper uses 2-photon imaging to investigate how visual scenes are mapped onto head direction circuits in <i>Drosophila</i> and includes both awesome experimental work and cool computational modelling that illustrates how the experimental findings relate to early theoretical work on head direction circuits integrating visual information.
 
 {: style="text-align: justify" }
 <a class="rec" href="https://www.nature.com/articles/nn.3650">A temporal basis for predicting the sensory consequences of motor commands in an electric fish</a><br>
