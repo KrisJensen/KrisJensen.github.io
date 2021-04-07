@@ -53,7 +53,7 @@ a.cv:visited {
 
 - Supervisor: <a class="cv" href="https://www.janelia.org/lab/jayaraman-lab">Professor Vivek Jayaraman</a>
 - Analysis of EM & RNAseq data and biophysical modelling of <i>Drosophila</i> neurons
-- <a class="cv" href="https://krisjensen.github.io//files/cx.pdf">Turner-evans et al. (2020)</a>
+- <a class="cv" href="https://krisjensen.github.io//files/cx.pdf">Turner-Evans et al. (2020)</a>
 
 <p style="padding-bottom:-8px; margin-bottom:-8px"> <b>Cambridge Centre for Computational Chemistry (2017 - 2018)</b> </p>
 
