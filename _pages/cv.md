@@ -32,7 +32,7 @@ a.cv:visited {
 
 - University of Cambridge
 - Supervisor: <a class="cv" href="https://https://hennequin-lab.github.io/">Dr Guillaume Hennequin</a>
-- Probabilistic modelling of spatial learning and representations (<a class="cv" href="https://krisjensen.github.io//files/mgplvm.pdf">Jensen et al. 2020</a>)
+- Bayesian methods for neural population analysis (<a class="cv" href="https://krisjensen.github.io//files/mgplvm.pdf">Jensen et al. 2020</a>)
 
 <p style="padding-bottom:-8px; margin-bottom:-8px"> <b>MPhil Computational Biology (2018 - 2019)</b> </p>
 
@@ -69,13 +69,10 @@ a.cv:visited {
 
 ## Teaching
 
-<p style="padding-bottom:-8px; margin-bottom:-8px"> <b>University of Cambridge (2018 - present)</b> </p>
+<p style="padding-bottom:-8px; margin-bottom:-8px"> <b>University of Cambridge </b> </p>
 
-- Supervisor (Teaching Assistant) - Theoretical chemistry (3rd year)
-
-<p style="padding-bottom:-8px; margin-bottom:-8px"> <b>Brookhouse International School</b> </p>
-
-- Cambridge Summer Teachers (Nairobi, Kenya)
+- Supervisor (Teaching Assistant) - Mathematical electrophysiology, 3rd year (2021)
+- Supervisor (Teaching Assistant) - Theoretical chemistry, 3rd year (2018-2020)
 
 ## Awards
 
@@ -95,10 +92,8 @@ a.cv:visited {
 
 <p style="padding-bottom:-8px; margin-bottom:-8px"> <b>Miscellaneous</b> </p>
 
-- <a class="cv" href="https://ungaforskare.se/siyss/">SIYSS participant</a> (2015)
 - First place - The Danish National Science Fair (life science) (2015)
 - Silver medal - The International Chemistry Olympiad (2014 & 2015)
-- First place - The Scandinavian Chemistry Olympiad (2014 & 2015)
 
 ## Computational skills
 
