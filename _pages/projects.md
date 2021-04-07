@@ -26,17 +26,27 @@ a.rec:visited {
 
 {% include base_path %}
 
+## Bayesian GPFA with automatrix relevance determination
+
+<img src="https://krisjensen.github.io/images/bgpfa_schematic.png" alt="pretty picture" width="80%" style="float: top">
+
+{: style="text-align: justify" }
+Methods for dimensionality reduction such as PCA, tSNE, GPFA, LFADS etc. are frequently used in neuroscience to try to decipher what low-dimensional quantities are represented by high-dimensional neural activity.
+Some of the challenges associated with these methods include high computational costs, difficulty in optimizing hyperparameters to avoid overfitting, and deciding on an appropriate latent dimensionality.
+In this work we address these problems by developing a scalable Bayesian version of Gaussian Process Factor Analysis which infers the appropriate latent dimensionality from the data together with the remaining hyperparameters.
+The Bayesian approach ensures appropriate regularization to avoid overfitting, and our scalable implementation supports non-Gaussian noise models and can be used for long time series spanning many minutes or even several hours.
+
 ## Manifold Gaussian process latent variable models
 
 <img src="https://krisjensen.github.io/images/concept.png" alt="pretty picture" width="80%" style="float: top">
 
 {: style="text-align: justify" }
-Methods for dimensionality reduction such as PCA, tSNE, GPFA, LFADS etc. are frequently used in neuroscience to try to decipher what low-dimensional quantities are represented by high-dimensional neural activity.
-However, these methods implicitly assume Euclidean latent states which is at odds with how the brain is thought to represent quantities such as head direction and certain motor plans.
+Most latent variable models used in neuroscience and machine learning implicitly assume Euclidean latent states.
+However, this is at odds with how the brain is thought to represent quantities such as head direction and certain motor plans.
 With Calvin Kao and Guillaume Hennequin in the CBL, we build on work by Anqi Wu in Jonathan Pillow's lab to extend the Gaussian Process Latent Variable Model originally developed by Neil Lawrence to cases where the latent space is no longer Euclidean.
 We expect this framework to be useful for querying spatial representations in the brain ranging from navigation circuits to cognitive processes and motor control.
 Current work-in-progress includes extending the probabilistic mGPLVM framework to a Poisson noise model, adding a prior over the temporal smoothness of neural activity, and further applying the framework to experimental data.
-<a class="rec" href="https://github.com/tachukao/mgplvm-pytorch">Code</a><br>.
+<a class="rec" href="https://github.com/tachukao/mgplvm-pytorch">Code</a><br>
 
 ## Stability of motor memories
 

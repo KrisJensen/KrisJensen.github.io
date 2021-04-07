@@ -11,8 +11,8 @@ redirect_from:
 
 {: style="text-align: justify" }
 I am a PhD student and Cambridge Gates scholar working with Guillaume Hennequin in the Computational and Biological Learning Lab at the University of Cambridge.
-In collaboration with Marco Tripodi at the LMB, we work on modelling how spatial representations are learned in the brain as well as developing Bayesian methods for analyzing these representations in non-Euclidean spaces.
-We think such methods will be useful when analyzing circuits representing things like head direction, spatial location, or motor plans in rotational spaces such as SO(3).
+We work on developing Bayesian machine learning tools for analysing neural population recordings as well as applying these tools to diverse neural circuits involved in navigation, cognition, motor control and more.
+In collaboration with Marco Tripodi at the Labotoratory of Molecular Biology, we also investigate how space is represented in subcortical sensorymotor circuits, and we have developed methods for analyzing such representations in non-Euclidean spaces.
 In addition to our neuroscience research, CBL is home to a range of excellent Machine Learning researchers, and we are always interested in thinking about new ways of applying neuroscience to machine learning and vice versa.
 
 {: style="text-align: justify" }
