@@ -51,7 +51,7 @@ A thrilling tale of an impressive quest to discover why <i>Drosophila melanogast
 {: style="text-align: justify" }
 <a class="rec" href="https://www.youtube.com/watch?v=55Wse17mXwQ&t=2851s">Human planning in large state spaces</a><br>
 <b>Wei Ji Ma (2020)</b><br>
-While deep reinforcemnt learning have given us a way to unlock previously unprecedented levels of performance in games such as chess and go with artificial agents, relativeely litte is still known about how humans approach such problems. Wei Ji Ma adresses this problem with custom-made apps and huge data sets, and in additon to cool conclusions it also provides an refreshing new approach to neuroscience in the 21st century.
+While deep reinforcemnt learning have given us a way to unlock previously unprecedented levels of performance in games such as chess and go with artificial agents, relatively litte is still known about how humans approach such problems. Wei Ji Ma adresses this problem with custom-made apps and huge data sets, and in additon to cool conclusions it also provides a refreshingly new approach to neuroscience in the 21st century.
 
 ## Tutorials
 
@@ -59,7 +59,7 @@ While deep reinforcemnt learning have given us a way to unlock previously unprec
 <a class="rec" href="https://www.neuromatchacademy.org/syllabus">Neuromatch Academy</a><br>
 <b>Neuromatch organizers and volunteers (2020)</b><br>
 Arguably the best resource available for learning computational neuroscience.
-Three weeks worth of material starting from simple principles of model selection and model fitting and moving to tutorials on dynamical systems and control, principles of deep learning & machine learning as applied to neuroscience, and much much more.
+Three weeks worth of material starting from simple principles of model selection and model fitting and moving to tutorials on dynamical systems and control, principles of deep learning & machine learning as applied to neuroscience, and much, much more.
 
 {: style="text-align: justify" }
 <a class="rec" href="http://statisticalml.stat.columbia.edu/event/tutorials-on-reinforcement-learning/">The Mathematical Foundations of Policy Gradient Methods</a><br>
@@ -71,7 +71,7 @@ This tutorial provides a really useful overview of the policy gradient methods t
 {: style="text-align: justify" }
 <a class="rec" href="https://www.nature.com/articles/s41593-018-0147-8#Abs1">Prefrontal cortex as a meta-reinforcement learning system</a><br>
 <b>Jane Wang, Zeb Kurth-Nelson et al. (2018)</b><br>
-Deep reinforcement learning is becoming increasingly important in both AI and neuroscience, and I've joined the bandwagon of people convinced that it will be one of the keys to understanding the human brain. This paper shows how a plethora of observations in biological agents can be explain by teaching PFC to implement task-specific reinforcement learning algorithms in its internal dynamics via a slower `meta-reinforcement learning' loop across tasks.
+Deep reinforcement learning is becoming increasingly important in both AI and neuroscience, and I've joined the bandwagon of people convinced that it will be one of the keys to understanding the human brain. This paper shows how a plethora of observations in biological agents can be explain by teaching PFC to implement task-specific reinforcement learning algorithms in its internal dynamics via a slower 'meta-reinforcement learning' loop across tasks.
 
 {: style="text-align: justify" }
 <a class="rec" href="https://www.nature.com/articles/s41593-018-0147-8#Abs1">What grid cells convey about rat location</a><br>
@@ -101,7 +101,7 @@ Evidence accumulation, decision making and sensory-driven motion are ubiquitous 
 {: style="text-align: justify" }
 <a class="rec" href="https://www.nature.com/articles/s41593-019-0460-x">The intrinsic attractor manifold and population dynamics of a canonical cognitive circuit across waking and sleep</a><br>
 <b>Rishidev Chaudhuri et al. (2019)</b><br>
-This paper compares the head-direction circuit in mice that are awake and asleep, using 'spline parameterization for unsupervised decoding' (SPUD) to analyze the consistent ring topology.
+This paper compares the head-direction circuit in mice that are awake and asleep using 'spline parameterization for unsupervised decoding' (SPUD) to analyze the consistent ring topology.
 This work has inspired a lot of our recent work on unsupervised learning in non-Euclidean spaces using Bayesian non-parametrics.
 
 {: style="text-align: justify" }
