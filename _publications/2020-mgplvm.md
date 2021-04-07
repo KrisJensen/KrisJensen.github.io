@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/mgplvm
 #excerpt: "manifold GPLvm"
 date: 2020-05-06
-venue: "arXiv [accepted at NeurIPS]"
+venue: "Neural Information Processing Systems"
 paperurl: "https://arxiv.org/abs/2006.07429"
 paperpdf: "https://krisjensen.github.io/files/mgplvm.pdf"
 authors: "<b>Kristopher T. Jensen</b>, Ta-Chu Kao, Marco Tripodi, Guillaume Hennequin"

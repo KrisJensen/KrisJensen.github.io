@@ -26,7 +26,7 @@ a.rec:visited {
 
 {% include base_path %}
 
-## Bayesian GPFA with automatrix relevance determination
+## Bayesian GPFA with automatic relevance determination
 
 <img src="https://krisjensen.github.io/images/bgpfa_schematic.png" alt="pretty picture" width="80%" style="float: top">
 
@@ -38,8 +38,7 @@ The Bayesian approach ensures appropriate regularization to avoid overfitting, a
 
 ## Manifold Gaussian process latent variable models
 
-<img src="https://krisjensen.github.io/images/concept.png" alt="pretty picture" width="80%" style="float: top">
-
+<img src="https://krisjensen.github.io/images/concept.png" alt="pretty picture" width="70%" style="float: top">
 {: style="text-align: justify" }
 Most latent variable models used in neuroscience and machine learning implicitly assume Euclidean latent states.
 However, this is at odds with how the brain is thought to represent quantities such as head direction and certain motor plans.
