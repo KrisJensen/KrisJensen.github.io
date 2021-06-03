@@ -38,7 +38,7 @@ We then develop 'natural continual learning' which combines continual learning u
 ## Bayesian GPFA with automatic relevance determination
 
 {: style="text-align: justify" }
-<img src="https://krisjensen.github.io/images/bgpfa_schematic.png" alt="pretty picture" width="70%" style="float: top">\
+<img src="https://krisjensen.github.io/images/bgpfa_schematic.png" alt="pretty picture" width="70%" style="float: top"><br>
 Methods for dimensionality reduction such as PCA, tSNE, GPFA, LFADS etc. are frequently used in neuroscience to try to decipher what low-dimensional quantities are represented by high-dimensional neural activity.
 Some of the challenges associated with these methods include high computational costs, difficulty in optimizing hyperparameters to avoid overfitting, and deciding on an appropriate latent dimensionality.
 In this work with Calvin Kao, Jasmine Stone and Guillaume Hennequin in the CBL, we address these challenges by developing a scalable Bayesian version of Gaussian Process Factor Analysis which infers the appropriate latent dimensionality from the data together with the remaining hyperparameters.
@@ -47,7 +47,7 @@ The Bayesian approach ensures appropriate regularization to avoid overfitting, a
 ## Manifold Gaussian process latent variable models
 
 {: style="text-align: justify" }
-<img src="https://krisjensen.github.io/images/concept.png" alt="pretty picture" width="75%" style="float: top">\
+<img src="https://krisjensen.github.io/images/concept.png" alt="pretty picture" width="75%" style="float: top"><br>
 Most latent variable models used in neuroscience and machine learning implicitly assume Euclidean latent states.
 However, this is at odds with how the brain is thought to represent quantities such as head direction and certain motor plans.
 With Calvin Kao and Guillaume Hennequin in the CBL, we build on work by Anqi Wu in Jonathan Pillow's lab to extend the Gaussian Process Latent Variable Model originally developed by Neil Lawrence to cases where the latent space is no longer Euclidean.
