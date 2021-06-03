@@ -29,7 +29,6 @@ a.rec:visited {
 ## Natural continual learning
 
 <img src="https://krisjensen.github.io/images/ncl.png" alt="pretty picture" width="99%" style="float: top">
-
 {: style="text-align: justify" }
 Humans and animals are known to learn many different tasks over the course of their lives, while artificial agents are prone to 'catastrophic forgetting' whereby performance on previous tasks deteriorates rapidly as new ones are acquired.
 This shortcoming of AI systems has been addressed using Bayesian weight regularization which constructs an approximate posterior loss function over all tasks, and alternatively using projected gradient descent which limits parameter updates to directions of state space that will not interfere with previous tasks.
@@ -39,7 +38,6 @@ We then develop 'natural continual learning' which combines continual learning u
 ## Bayesian GPFA with automatic relevance determination
 
 <img src="https://krisjensen.github.io/images/bgpfa_schematic.png" alt="pretty picture" width="70%" style="float: top">
-
 {: style="text-align: justify" }
 Methods for dimensionality reduction such as PCA, tSNE, GPFA, LFADS etc. are frequently used in neuroscience to try to decipher what low-dimensional quantities are represented by high-dimensional neural activity.
 Some of the challenges associated with these methods include high computational costs, difficulty in optimizing hyperparameters to avoid overfitting, and deciding on an appropriate latent dimensionality.
