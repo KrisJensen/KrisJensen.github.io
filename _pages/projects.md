@@ -32,7 +32,7 @@ a.rec:visited {
 <img src="https://krisjensen.github.io/images/ncl.png" alt="pretty picture" width="99%" style="float: top">\
 Humans and animals are known to learn many different tasks over the course of their lives, while artificial agents are prone to 'catastrophic forgetting' whereby performance on previous tasks deteriorates rapidly as new ones are acquired.
 This shortcoming of AI systems has been addressed using Bayesian weight regularization which constructs an approximate posterior loss function over all tasks, and alternatively using projected gradient descent which limits parameter updates to directions of state space that will not interfere with previous tasks.
-In this work with Calvin Kao, Alberto Bernacchia and Guillaume Hennequin in the CBL, we argue that it is important in continual learning to have both good stationary points as in weight regularization and a stable optimization path as in projected gradient descent.
+In this work with Calvin Kao & Guillaume Hennequin in the CBL and Alberto Bernacchia at MediaTek Research, we argue that it is important in continual learning to have both good stationary points as in weight regularization and a stable optimization path as in projected gradient descent.
 We then develop 'natural continual learning' which combines continual learning using a Laplace posterior with projected gradient descent based on an approximate posterior over the parameters from previous tasks.
 
 ## Bayesian GPFA with automatic relevance determination
