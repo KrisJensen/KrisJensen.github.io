@@ -26,6 +26,16 @@ a.rec:visited {
 
 {% include base_path %}
 
+## Natural continual learning
+
+<img src="https://krisjensen.github.io/images/ncl.png" alt="pretty picture" width="99%" style="float: top">
+
+{: style="text-align: justify" }
+Humans and animals are known to learn many different tasks over the course of their lives, while artificial agents are prone to 'catastrophic forgetting' whereby performance on previous tasks deteriorates rapidly as new ones are acquired.
+This shortcoming of AI systems has been addressed using Bayesian weight regularization which constructs an approximate posterior loss function over all tasks, and alternatively using projected gradient descent which limits parameter updates to directions of state space that will not interfere with previous tasks.
+In this work with Calvin Kao, Alberto Bernacchia and Guillaume Hennequin in the CBL, we argue that it is important in continual learning to have both good stationary points as in weight regularization and a stable optimization path as in projected gradient descent.
+We then develop 'natural continual learning' which combines continual learning using a Laplace posterior with projected gradient descent based on an approximate posterior over the parameters from previous tasks.
+
 ## Bayesian GPFA with automatic relevance determination
 
 <img src="https://krisjensen.github.io/images/bgpfa_schematic.png" alt="pretty picture" width="70%" style="float: top">
@@ -33,7 +43,7 @@ a.rec:visited {
 {: style="text-align: justify" }
 Methods for dimensionality reduction such as PCA, tSNE, GPFA, LFADS etc. are frequently used in neuroscience to try to decipher what low-dimensional quantities are represented by high-dimensional neural activity.
 Some of the challenges associated with these methods include high computational costs, difficulty in optimizing hyperparameters to avoid overfitting, and deciding on an appropriate latent dimensionality.
-In this work we address these problems by developing a scalable Bayesian version of Gaussian Process Factor Analysis which infers the appropriate latent dimensionality from the data together with the remaining hyperparameters.
+In this work with Calvin Kao, Jasmine Stone and Guillaume Hennequin in the CBL, we address these challenges by developing a scalable Bayesian version of Gaussian Process Factor Analysis which infers the appropriate latent dimensionality from the data together with the remaining hyperparameters.
 The Bayesian approach ensures appropriate regularization to avoid overfitting, and our scalable implementation supports non-Gaussian noise models and can be used for long time series spanning many minutes or even several hours.
 
 ## Manifold Gaussian process latent variable models
@@ -53,7 +63,7 @@ Current work-in-progress includes extending the probabilistic mGPLVM framework t
 <img src="https://krisjensen.github.io/images/stability.png" alt="pretty picture" width="40%" style="padding-right: 1%; padding-top: 0.5%; float: left;">
 Motor memories such as the ability to serve in tennis can last for many months and years even without further practice, but it remains unclear how such memories are stored at the circuit level.
 The literature on this topic has seen conflicting results, but most of these suffer partly from an inability to record the same neurons for long periods of time during complex motor behaviors.
-In this work with Bence Ölveczky at Harvard Center for Brain Science, we investigate the stability of the neural correlates of two motor behaviors, one learned and one innate.
+In this work with Bence Ölveczky at the Harvard Center for Brain Science, we investigate the stability of the neural correlates of two motor behaviors, one learned and one innate.
 We record from both motor cortex and dorslateral striatum and find stable correlates of behavior in both brain regions.
 This suggests that stable single-neuron activity can underlie persistent memories which in turn suggests an underlying circuit with a stable core that is largely unperturbed after learning.
 
