@@ -69,6 +69,12 @@ This tutorial provides a really useful overview of the policy gradient methods t
 ## Papers
 
 {: style="text-align: justify" }
+<a class="rec" href="https://www.nature.com/articles/s41586-021-03506-2">High-performance brain-to-text communication via handwriting</a><br>
+<b>Francis Willett et al. (2021)</b><br>
+Brain-computer interfaces is a rapidly growing field with great advances in both academic research and industry over the past decade.
+In this work, Willett et al. develop a recurrent neural network model that can decode neural activity in motor cortex directly to intended, bringing this technology one step closer to general use.
+
+{: style="text-align: justify" }
 <a class="rec" href="https://www.nature.com/articles/s41593-018-0147-8#Abs1">Prefrontal cortex as a meta-reinforcement learning system</a><br>
 <b>Jane Wang, Zeb Kurth-Nelson et al. (2018)</b><br>
 Deep reinforcement learning is becoming increasingly important in both AI and neuroscience, and I've joined the bandwagon of people convinced that it will be one of the keys to understanding the human brain. This paper shows how a plethora of observations in biological agents can be explain by teaching PFC to implement task-specific reinforcement learning algorithms in its internal dynamics via a slower 'meta-reinforcement learning' loop across tasks.
@@ -76,12 +82,12 @@ Deep reinforcement learning is becoming increasingly important in both AI and ne
 {: style="text-align: justify" }
 <a class="rec" href="https://www.nature.com/articles/s41593-018-0147-8#Abs1">What grid cells convey about rat location</a><br>
 <b>Ila Fiete et al. (2009)</b><br>
-Grid cells have long been considered one of the most baffling findings in modern systems neuroscience. In this work, Ila Fiete and colleagues propose that grid cells represent a 'modulo code' for counting and highlights several important features of such a code, including exponential capacity and the ability to update individual modules using only local information. This provides key insights into why the brain might use periodic codes and gives intuition for why so many artificial agents have been found to learn grid-like codes in more recent computational studies.
+Grid cells have long been considered one of the most baffling findings in modern systems neuroscience. In this work, Ila Fiete and colleagues propose that grid cells represent a 'modulo code' for counting and highlight several important features of such a code, including exponential capacity and the ability to update individual modules using only local information. This provides key insights into why the brain might use periodic codes and gives intuition for why so many artificial agents have been found to learn grid-like codes in more recent computational studies.
 
 {: style="text-align: justify" }
 <a class="rec" href="http://jmlr.org/papers/volume15/srivastava14b/srivastava14b.pdf">Multimodal Learning with Deep Boltzmann Machines</a><br>
 <b>Nitish Srivastava and Ruslan Salakhutdinov (2014)</b><br>
-I'm convinced that multisensory alignment will turn out to be important for organizing neural circuits in early development, and this is a cool paper illustrating how two sensory modalities can be used to generate a powerful inference model in a machine learning model.
+Multisensory alignment will probably turn out to be important for organizing neural circuits in early development, and this is a cool paper illustrating how two sensory modalities can be used to generate a powerful inference model in a machine learning model.
 
 {: style="text-align: justify" }
 <a class="rec" href="https://www.nature.com/articles/s41586-019-1767-1">Generation of stable heading representations in diverse visual scenes</a><br>
@@ -96,13 +102,12 @@ Electric fish sense the weak electric signals from their prey but also produce t
 {: style="text-align: justify" }
 <a class="rec" href="https://www.nature.com/articles/s41593-019-0534-9">Neural circuits for evidence accumulation and decision making in larval zebrafish</a><br>
 <b>Armin Bahl and Florian Engert (2019)</b><br>
-Evidence accumulation, decision making and sensory-driven motion are ubiquitous across organisms, and in this awesome work, Armin Bahl uses lightsheet imaging in thee zebrafish brain to elucidate how these algorithms are implemented at a mechanistic level in the context of the fish optomotor response.
+Evidence accumulation, decision making and sensory-driven motion are ubiquitous across organisms. In this awesome work, Armin Bahl uses lightsheet imaging in the zebrafish brain to elucidate how these algorithms are implemented at a mechanistic level in the context of the fish optomotor response.
 
 {: style="text-align: justify" }
 <a class="rec" href="https://www.nature.com/articles/s41593-019-0460-x">The intrinsic attractor manifold and population dynamics of a canonical cognitive circuit across waking and sleep</a><br>
 <b>Rishidev Chaudhuri et al. (2019)</b><br>
-This paper compares the head-direction circuit in mice that are awake and asleep using 'spline parameterization for unsupervised decoding' (SPUD) to analyze the consistent ring topology.
-This work has inspired a lot of our recent work on unsupervised learning in non-Euclidean spaces using Bayesian non-parametrics.
+This paper compares the head-direction circuit in mice that are awake and asleep using 'spline parameterization for unsupervised decoding' (SPUD) to analyze the consistent ring topology. This work has inspired a lot of our own ideas on unsupervised learning in non-Euclidean spaces using Bayesian non-parametrics.
 
 {: style="text-align: justify" }
 <a class="rec" href="https://science.sciencemag.org/content/351/6268/84">Rationally engineered Cas9 nucleases with improved specificity</a><br>
