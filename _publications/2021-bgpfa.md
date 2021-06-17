@@ -3,7 +3,7 @@ title: "Scalable Bayesian GPFA with automatic relevance determination and discre
 collection: publications
 permalink: /publication/bgpfa
 #excerpt: "Bayesian GPFA"
-date: 2021-03-06
+date: 2021-06-03
 venue: "bioRxiv"
 paperurl: "https://www.biorxiv.org/content/10.1101/2021.06.03.446788v1"
 paperpdf: "https://krisjensen.github.io/files/bgpfa.pdf"
