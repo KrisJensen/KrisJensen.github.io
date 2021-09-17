@@ -51,7 +51,7 @@ A thrilling tale of an impressive quest to discover why <i>Drosophila melanogast
 {: style="text-align: justify" }
 <a class="rec" href="https://www.youtube.com/watch?v=55Wse17mXwQ&t=2851s">Human planning in large state spaces</a><br>
 <b>Wei Ji Ma (2020)</b><br>
-While deep reinforcemnt learning have given us a way to unlock previously unprecedented levels of performance in games such as chess and go with artificial agents, relatively litte is still known about how humans approach such problems. Wei Ji Ma adresses this problem with custom-made apps and huge data sets, and in additon to cool conclusions it also provides a refreshingly new approach to neuroscience in the 21st century.
+While deep reinforcement learning has given us a way to unlock previously unprecedented levels of performance in games such as chess and go with artificial agents, relatively litte is still known about how humans approach such problems. Wei Ji Ma adresses this problem with custom-made apps and huge data sets, and in additon to cool conclusions it also provides a refreshingly new approach to neuroscience in the 21st century.
 
 ## Tutorials
 
