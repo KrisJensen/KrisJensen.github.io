@@ -64,7 +64,7 @@ Three weeks worth of material starting from simple principles of model selection
 {: style="text-align: justify" }
 <a class="rec" href="http://statisticalml.stat.columbia.edu/event/tutorials-on-reinforcement-learning/">The Mathematical Foundations of Policy Gradient Methods</a><br>
 <b>Sham Kakade (2020)</b><br>
-This tutorial provides a really useful overview of the policy gradient methods that underlie much of modern RL, and Sham Kakade does an excellent job explaining things in a way that provides intuition to accompany the equations.
+This tutorial provides a very useful overview of the policy gradient methods that underlie much of modern reinforcement learning, and Sham Kakade does an excellent job explaining things in a way that provides intuition to accompany the equations.
 
 ## Papers
 
@@ -77,7 +77,7 @@ In this work, Willett et al. develop a recurrent neural network model that can d
 {: style="text-align: justify" }
 <a class="rec" href="https://www.nature.com/articles/s41593-018-0147-8#Abs1">Prefrontal cortex as a meta-reinforcement learning system</a><br>
 <b>Jane Wang, Zeb Kurth-Nelson et al. (2018)</b><br>
-Deep reinforcement learning is becoming increasingly important in both AI and neuroscience, and I've joined the bandwagon of people convinced that it will be one of the keys to understanding the human brain. This paper shows how a plethora of observations in biological agents can be explain by teaching PFC to implement task-specific reinforcement learning algorithms in its internal dynamics via a slower 'meta-reinforcement learning' loop across tasks.
+Deep reinforcement learning is becoming increasingly important in both AI and neuroscience, and like many others I am convinced that it will be one of the keys to understanding the human brain. This paper shows how a plethora of observations in biological agents can be explained by teaching a 'PFC-like' system to implement task-specific reinforcement learning algorithms in its internal dynamics via a slower 'meta-reinforcement learning' loop across tasks.
 
 {: style="text-align: justify" }
 <a class="rec" href="https://www.nature.com/articles/s41593-018-0147-8#Abs1">What grid cells convey about rat location</a><br>
