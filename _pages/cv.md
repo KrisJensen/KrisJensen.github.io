@@ -52,7 +52,7 @@ a.cv:visited {
 <p style="padding-bottom:-8px; margin-bottom:-8px"> <b>Harvard Center for Brain Science (2018 - )</b> </p>
 
 - Supervisor: <a class="cv" href="https://olveczkylab.oeb.harvard.edu/">Professor Bence Ölveczky</a>
-- Analysis and modelling of continuous neural recordings to assess the representational stability of motor memories.
+- Analysis and modelling of continuous neural recordings to assess the representational stability of motor memories.l
 
 <p style="padding-bottom:-8px; margin-bottom:-8px"> <b>Janelia Research Campus (2018 - 2019)</b> </p>
 
@@ -103,4 +103,4 @@ a.cv:visited {
 
 ## Computational skills
 
-- Python (inlcuding PyTorch, Jax & TensorFlow), Julia (Including Zygote & Flux), R, MATLAB
+- Python (inlcuding PyTorch, Jax & TensorFlow), Julia (including Zygote & Flux), R, MATLAB
