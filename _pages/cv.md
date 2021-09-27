@@ -49,6 +49,11 @@ a.cv:visited {
 
 ## Research
 
+<p style="padding-bottom:-8px; margin-bottom:-8px"> <b>Harvard Center for Brain Science (2018 - )</b> </p>
+
+- Supervisor: <a class="cv" href="https://olveczkylab.oeb.harvard.edu/">Professor Bence Ölveczky</a>
+- Analysis and modelling of continuous neural recordings to assess the representational stability of motor memories.
+
 <p style="padding-bottom:-8px; margin-bottom:-8px"> <b>Janelia Research Campus (2018 - 2019)</b> </p>
 
 - Supervisor: <a class="cv" href="https://www.janelia.org/lab/jayaraman-lab">Professor Vivek Jayaraman</a>
@@ -69,6 +74,10 @@ a.cv:visited {
 
 ## Teaching
 
+<p style="padding-bottom:-8px; margin-bottom:-8px"> <b>Neuromatch Academy </b> </p>
+
+- Teaching Assistant - Computational neuroscience (2021)
+
 <p style="padding-bottom:-8px; margin-bottom:-8px"> <b>University of Cambridge </b> </p>
 
 - Supervisor (Teaching Assistant) - Mathematical electrophysiology, 3rd year (2021)
@@ -76,25 +85,22 @@ a.cv:visited {
 
 ## Awards
 
-<p style="padding-bottom:-8px; margin-bottom:-8px"> <b>Fellowships</b> </p>
+<p style="padding-bottom:-8px; margin-bottom:-8px"> <b>Fellowships & scholarships</b> </p>
 
 - <a class="cv" href="https://www.gatescambridge.org/members-area/connect/directory/scholar/16672">Cambridge Gates Scholar</a> (2019 - present)
-- <a class="cv" href="https://www.janelia.org/you-janelia/students-postdocs/undergraduate-scholars-program">Janelia Undergraduate Scholar</a> (2018)
-
-<p style="padding-bottom:-8px; margin-bottom:-8px"> <b>Undergraduate awards</b> </p>
-
 - Scholar of Magdalene College, Cambridge (2016 - 2019)
+- <a class="cv" href="https://www.janelia.org/you-janelia/students-postdocs/undergraduate-scholars-program">Janelia Undergraduate Scholar</a> (2018)
+- <a class="cv" href="http://www.bccd.dk/?pageid=62&menuid=69&languageid=0">British Chamber of Commerce in Denmark Scholar</a> (2015)
+
+<p style="padding-bottom:-8px; margin-bottom:-8px"> <b>Prizes</b> </p>
+
 - Georgina Winnifred Holgate Pollard Memorial Prize for best performance in undergraduate chemistry (2018)
 - Gill, Bundy & B.C. Saunders prizes for excellence in university examinations (2018)
 - BP Prize for the best performance in practical chemistry (2018)
 - BP Prize for the best performance in theoretical chemistry (2017)
-- <a class="cv" href="http://www.bccd.dk/?pageid=62&menuid=69&languageid=0">British Chamber of Commerce in Denmark Scholar</a>
-
-<p style="padding-bottom:-8px; margin-bottom:-8px"> <b>Miscellaneous</b> </p>
-
 - First place - The Danish National Science Fair (life science) (2015)
 - Silver medal - The International Chemistry Olympiad (2014 & 2015)
 
 ## Computational skills
 
-- python, juila, R, MATLAB, LaTeX, git, cluster computing
+- Python (inlcuding PyTorch, Jax & TensorFlow), Julia (Including Zygote & Flux), R, MATLAB
