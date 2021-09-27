@@ -32,7 +32,8 @@ a.cv:visited {
 
 - University of Cambridge
 - Supervisor: <a class="cv" href="https://https://hennequin-lab.github.io/">Dr Guillaume Hennequin</a>
-- Bayesian methods for neural population analysis (<a class="cv" href="https://krisjensen.github.io//files/mgplvm.pdf">Jensen et al. 2020</a>)
+- Bayesian methods for neural population analysis (<a class="cv" href="https://krisjensen.github.io//files/mgplvm.pdf">Jensen et al. 2020</a>, <a class="cv" href="https://krisjensen.github.io//files/bgpfa.pdf">Jensen & Kao et al. 2021</a>)
+- Continual learning (<a class="cv" href="https://krisjensen.github.io//files/ncl.pdf">Kao & Jensen et al. 2021</a>)
 
 <p style="padding-bottom:-8px; margin-bottom:-8px"> <b>MPhil Computational Biology (2018 - 2019)</b> </p>
 
