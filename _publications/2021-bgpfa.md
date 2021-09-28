@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/bgpfa
 #excerpt: "Bayesian GPFA"
 date: 2021-06-03
-venue: "bioRxiv"
+venue: "bioRxiv; accepted at NeurIPS"
 paperurl: "https://www.biorxiv.org/content/10.1101/2021.06.03.446788v1"
 paperpdf: "https://krisjensen.github.io/files/bgpfa.pdf"
 authors: "<b>Kristopher T. Jensen</b>*, Ta-Chu Kao*, Jasmine T. Stone, Guillaume Hennequin"
