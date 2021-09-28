@@ -32,9 +32,10 @@ a.cv:visited {
 
 - University of Cambridge
 - Supervisor: <a class="cv" href="https://https://hennequin-lab.github.io/">Dr Guillaume Hennequin</a>
-- Bayesian methods for neural population analysis (<a class="cv" href="https://krisjensen.github.io//files/mgplvm.pdf">Jensen et al. 2020</a>, <a class="cv" href="https://krisjensen.github.io//files/bgpfa.pdf">Jensen & Kao et al. 2021</a>)
-- Continual learning (<a class="cv" href="https://krisjensen.github.io//files/ncl.pdf">Kao & Jensen et al. 2021</a>)
-- Planing and inference in reinforcement learning
+- Development of Bayesian latent variable models for neural population recodings (<a class="cv" href="https://krisjensen.github.io//files/mgplvm.pdf">Jensen et al. 2020</a>, <a class="cv" href="https://krisjensen.github.io//files/bgpfa.pdf">Jensen & Kao et al. 2021</a>).
+- Analysis and modeling of neural dynamics for navigation and motor control.
+- Continual learning in biological motor circuits and for AI (<a class="cv" href="https://krisjensen.github.io//files/ncl.pdf">Kao & Jensen et al. 2021</a>).
+- Planning and replay for reinforcement learning in biological and artificial agents.
 
 <p style="padding-bottom:-8px; margin-bottom:-8px"> <b>MPhil Computational Biology (2018 - 2019)</b> </p>
 
@@ -54,24 +55,28 @@ a.cv:visited {
 <p style="padding-bottom:-8px; margin-bottom:-8px"> <b>Harvard Center for Brain Science (2018 - )</b> </p>
 
 - Supervisor: <a class="cv" href="https://olveczkylab.oeb.harvard.edu/">Professor Bence Ölveczky</a>
-- Analysis and modelling of continuous neural recordings to assess the representational stability of motor memories.
+- Analysis of the neural stability of motor memories from extracellular recordings.
+- Training of GLMs and recurrent network models of representational stability and drift.
 
 <p style="padding-bottom:-8px; margin-bottom:-8px"> <b>Janelia Research Campus (2018 - 2019)</b> </p>
 
 - Supervisor: <a class="cv" href="https://www.janelia.org/lab/jayaraman-lab">Professor Vivek Jayaraman</a>
-- Analysis of EM & RNAseq data and biophysical modelling of <i>Drosophila</i> neurons
+- Analysis of electron miscroscopy \& RNAseq data from the fly head direction circuit.\\
+- Development of experimentally inspired biophysical and recurrent network models.
 - <a class="cv" href="https://krisjensen.github.io//files/cx.pdf">Turner-Evans et al. (2020)</a>
 
 <p style="padding-bottom:-8px; margin-bottom:-8px"> <b>Cambridge Centre for Computational Chemistry (2017 - 2018)</b> </p>
 
 - Supervisor: <a class="cv" href="https://www.ch.cam.ac.uk/group/thom/dr-alex-thom">Dr Alex Thom</a>
-- Development of a HF-based method for <i>in silico</i> modelling of electron transfer reactions
+- Development of a Hartree Fock-based method for modeling electron transfer reactions. \\
+- Characterization of the electronic states in a computational model of a solar cell.
 - <a class="cv" href="https://krisjensen.github.io//files/ET.pdf">Jensen et al. (2018)</a>
 
 <p style="padding-bottom:-8px; margin-bottom:-8px"> <b>Aarhus University Department of Biomedicine (2016 - 2017)</b> </p>
 
 - Supervisor: <a class="cv" href="https://pure.au.dk/portal/en/persons/yonglun-luo(0ede9a3b-a5fc-48be-a214-5c67e5df02db).html">Dr Yonglun Luo</a>
-- Investigation of factors affecting the efficiency of CRISPR/Cas9 for genome editing
+- Investigation of factors affecting the efficiency of CRISPR/Cas9 for genome editing. \\
+- Design of new CRISPR-based tools for improved genomic and epigenomic control.
 - <a class="cv" href="https://krisjensen.github.io//files/crispr.pdf">Jensen et al. (2017)</a>
 
 ## Teaching
