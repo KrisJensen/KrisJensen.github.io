@@ -57,6 +57,7 @@ a.cv:visited {
 - Supervisor: <a class="cv" href="https://olveczkylab.oeb.harvard.edu/">Professor Bence Ölveczky</a>
 - Analysis of the neural stability of motor memories from extracellular recordings.
 - Training of GLMs and recurrent network models of representational stability and drift.
+- <a class="cv" href="https://krisjensen.github.io//files/stability.pdf">Jensen et al. (2021)</a>
 
 <p style="padding-bottom:-8px; margin-bottom:-8px"> <b>Janelia Research Campus (2018 - 2019)</b> </p>
 
