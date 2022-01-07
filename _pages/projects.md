@@ -29,10 +29,10 @@ a.rec:visited {
 ## Meta RL as a model of cognition
 
 {: style="text-align: justify" }
-<img src="https://krisjensen.github.io/images/meta-rl.png" alt="pretty picture" width="40%" style="padding-right: 1%; padding-top: 0.5%; float: left;">
+<img src="https://krisjensen.github.io/images/meta-rl.png" alt="pretty picture" width="32%" style="padding-right: 1%; padding-top: 0.5%; float: left;">
 Reinforcement learning has proven a succesful paradigm for explaining and understanding human and animal behavior in many contexts.
 However, while many canonical RL algorithms rely on slow parameter updates, humans and animals are able to learn from their interactions with the environment on a timescale of seconds through recurrent network dynamics.
-Recently, `black-box` meta-RL with recurrent networks has been proposed as a model of such rapid reinforcement learning in the brain.
+Recently, 'black box' meta-RL with recurrent networks has been proposed as a model of such rapid reinforcement learning in the brain.
 In this work with Marcelo Mattar at UCSD & Guillaume Hennequin in the CBL, we further investigate the similarities between such artifical meta-RL circuits and biological networks with a focus on planning and inference in environments with complex and changing transition structures.
 In particular, we analyze how model-based behavior arises from the internal dynamics of the artificial recurrent networks and compare both the dynamics and emergent behavior with biological circuits.
 
