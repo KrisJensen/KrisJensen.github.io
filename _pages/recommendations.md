@@ -36,7 +36,7 @@ Here is a short list of talks, tutorials and papers that I've found particularly
 {: style="text-align: justify" }
 <a class="rec" href="https://www.youtube.com/watch?v=E29uad2FUVE&t=280s">About a biological ring attractor network</a><br>
 <b>Vivek Jayaraman (2020)</b><br>
-The human brain has ~100 billion neurons, the mouse brain ~100 million, and the fly brain just 250,000. However, we're increasingly beginning to understand how function and cognition arises from these 250,000 fly neurons, and this talk gives an awesome overview of how this understanding emerges in the context of the <i>Drosophila</i> navigation system.
+The human brain has ~100 billion neurons, the mouse brain ~100 million, and the fly brain just 100,000. However, we're increasingly beginning to understand how function and cognition arises from these 100,000 fly neurons, and this talk gives an awesome overview of how this understanding emerges in the context of the <i>Drosophila</i> navigation system.
 
 {: style="text-align: justify" }
 <a class="rec" href="https://bcs.mit.edu/news-events/media/seminar-earl-miller-working-memory-20">Working memory 2.0</a><br>
