@@ -116,6 +116,12 @@ Evidence accumulation, decision making and sensory-driven motion are ubiquitous 
 This paper compares the head-direction circuit in mice that are awake and asleep using 'spline parameterization for unsupervised decoding' (SPUD) to analyze the consistent ring topology. This work has inspired a lot of our own ideas on unsupervised learning in non-Euclidean spaces using Bayesian non-parametrics.
 
 {: style="text-align: justify" }
+<a class="rec" href="https://www.nature.com/articles/s41593-019-0460-x">Accurate angular integration with only a handful of neurons</a><br>
+<b>Marcella Noorman et al. (2022)</b><br>
+Most work in theoretical neuroscience assumes either a pair of neurons or an infinite population of neurons.
+However, many computations are performed by only a handful of neurons - especially in invertebrates with smaller brains than mammals. This paper generalizes canonical work on ring attractors from infinite populations to as few as 4 neurons, showing analytically that it is still possible to get optimal performance with careful tuning of parameters.
+
+{: style="text-align: justify" }
 <a class="rec" href="https://science.sciencemag.org/content/351/6268/84">Rationally engineered Cas9 nucleases with improved specificity</a><br>
 <b>Ian Slaymaker et al. (2016)</b><br>
 A cool example of how we can use an understanding of chemistry and protein structure to alter the functional properties of enzymes - in this case the Cas9 protein with use cases spanning basic science and medicine.
