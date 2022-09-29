@@ -3,7 +3,7 @@ title: "Long-term stability of neural activity in the motor system"
 collection: publications
 permalink: /publication/stability
 #excerpt: "Natural continual learning"
-date: 2021-10-28
+date: 2022-10-28
 venue: "Nature neuroscience - in press"
 paperurl: "https://www.biorxiv.org/content/10.1101/2021.10.27.465945v1"
 paperpdf: "https://krisjensen.github.io/files/stability.pdf"
