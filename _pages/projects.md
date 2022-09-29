@@ -29,7 +29,7 @@ a.rec:visited {
 ## Meta-learning to plan with recurrent neural networks
 
 {: style="text-align: justify" }
-<img src="https://krisjensen.github.io/images/meta-rl.pdf" alt="pretty picture" width="32%" style="padding-right: 1%; padding-top: 0.5%; float: left;">
+<img src="https://krisjensen.github.io/images/metaRL.png" alt="pretty picture" width="32%" style="padding-right: 1%; padding-top: 0.5%; float: left;">
 Humans can rapidly adapt to new information and flexibly change their behavior in dynamic environments.
 It has previously been suggested that this flexibility is facilitated by fast network dynamics in the prefrontal network, acquired through a process of `meta-reinforcement learning`.
 However, a notable feature of human behaviour that these models fail to capture is the ability to perform temporally extended planning using an internal model of the environment.
