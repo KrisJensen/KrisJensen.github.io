@@ -26,7 +26,7 @@ a.rec:visited {
 
 {% include base_path %}
 
-## Meta RL as a model of cognition
+## Meta-learning to plan with recurrent neural networks
 
 {: style="text-align: justify" }
 <img src="https://krisjensen.github.io/images/meta-rl.pdf" alt="pretty picture" width="32%" style="padding-right: 1%; padding-top: 0.5%; float: left;">

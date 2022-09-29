@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/stability
 #excerpt: "Natural continual learning"
 date: 2021-10-28
-venue: "bioRxiv"
+venue: "Nature neuroscience - in press"
 paperurl: "https://www.biorxiv.org/content/10.1101/2021.10.27.465945v1"
 paperpdf: "https://krisjensen.github.io/files/stability.pdf"
 authors: "<b>Kristopher T. Jensen</b>, Naama Kadmon Harpaz, Ashesh K. Dhawale, Steffen B. E. Wolff, Bence P. Ölveczky"
