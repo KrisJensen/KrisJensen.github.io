@@ -1,11 +1,10 @@
 ---
-title: "Long-term stability of neural activity in the motor system"
+title: "Long-term stability of single neuron activity in the motor system"
 collection: publications
 permalink: /publication/stability
-#excerpt: "Natural continual learning"
-date: 2022-10-28
-venue: "Nature neuroscience - in press"
-paperurl: "https://www.biorxiv.org/content/10.1101/2021.10.27.465945v1"
+date: 2022-11-10
+venue: "Nature neuroscience"
+paperurl: "https://www.nature.com/articles/s41593-022-01194-3"
 paperpdf: "https://krisjensen.github.io/files/stability.pdf"
 authors: "<b>Kristopher T. Jensen</b>, Naama Kadmon Harpaz, Ashesh K. Dhawale, Steffen B. E. Wolff, Bence P. Ölveczky"
 #citation: "Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3)."
