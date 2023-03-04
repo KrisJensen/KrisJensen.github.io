@@ -88,7 +88,7 @@ Supervisor: <a class="cv" href="https://www.ch.cam.ac.uk/group/thom/dr-alex-thom
 
 Supervisor: <a class="cv" href="https://pure.au.dk/portal/en/persons/yonglun-luo(0ede9a3b-a5fc-48be-a214-5c67e5df02db).html">Dr Yonglun Luo</a>
 
-- Investigation of factors affecting the efficiency of CRISPR/Cas9 for genome editing.\
+- Investigation of factors affecting the efficiency of CRISPR/Cas9 for genome editing.
 - Design of new CRISPR-based tools for improved genomic and epigenomic control.
 - <a class="cv" href="https://krisjensen.github.io//files/crispr.pdf">Jensen et al. (2017)</a>
 
