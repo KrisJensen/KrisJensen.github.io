@@ -72,7 +72,7 @@ Supervisor: <a class="cv" href="https://olveczkylab.oeb.harvard.edu/">Professor 
 
 Supervisor: <a class="cv" href="https://www.janelia.org/lab/jayaraman-lab">Professor Vivek Jayaraman</a>
 
-- Analysis of electron miscroscopy \& RNAseq data from the fly head direction circuit.\
+- Analysis of electron miscroscopy \& RNAseq data from the fly head direction circuit.
 - Development of experimentally inspired biophysical and recurrent network models.
 - <a class="cv" href="https://krisjensen.github.io//files/cx.pdf">Turner-Evans et al. (2020)</a>
 
@@ -80,7 +80,7 @@ Supervisor: <a class="cv" href="https://www.janelia.org/lab/jayaraman-lab">Profe
 
 Supervisor: <a class="cv" href="https://www.ch.cam.ac.uk/group/thom/dr-alex-thom">Dr Alex Thom</a>
 
-- Development of a Hartree Fock-based method for modeling electron transfer reactions.\
+- Development of a Hartree Fock-based method for modeling electron transfer reactions.
 - Characterization of the electronic states in a computational model of a solar cell.
 - <a class="cv" href="https://krisjensen.github.io//files/ET.pdf">Jensen et al. (2018)</a>
 
