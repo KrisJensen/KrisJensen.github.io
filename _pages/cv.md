@@ -39,15 +39,15 @@ Supervisor: <a class="cv" href="https://https://hennequin-lab.github.io/">Dr Gui
 
 <p style="padding-bottom:-8px; margin-bottom:-8px"> <b>MPhil Computational Biology (2018 - 2019)</b> </p>
 
-University of Cambridge & Harvard Center for Brain Science
-Result: Distinction (89.1/100; 1<sup>st</sup> of 19 students)
+University of Cambridge & Harvard Center for Brain Science\
+Result: Distinction (89.1/100; 1<sup>st</sup> of 19 students)\
 Supervisor: <a class="cv" href="https://olveczkylab.oeb.harvard.edu/">Professor Bence Ölveczky</a>
 
 - Dissertation: <i>Long-Term Stability of Neural Dynamics Underlying Stereotyped Behavior</i>
 
 <p style="padding-bottom:-8px; margin-bottom:-8px"> <b>BA Natural Sciences</b> </p>
 
-University of Cambridge
+University of Cambridge\
 Result: First Class Honors (82.7/100; 1<sup>st</sup> of 112 students)
 
 - Specialization: Molecular biology & theoretical chemistry
@@ -60,19 +60,19 @@ Supervisor: <a class="cv" href="https://mattarlab.ucsd.edu/">Dr Marcelo Mattar</
 
 - Studying planning and decision making with behaviour, neural recordings, and deep RL.
 
-<p style="padding-bottom:-8px; margin-bottom:-8px"> <b>Harvard Center for Brain Science (2018 - )</b> </p>
+<p style="padding-bottom:-8px; margin-bottom:-8px"> <b>Harvard Center for Brain Science (2018 - 2022)</b> </p>
 
 Supervisor: <a class="cv" href="https://olveczkylab.oeb.harvard.edu/">Professor Bence Ölveczky</a>
 
 - Analysis of the neural stability of motor memories from extracellular recordings.
 - Training of GLMs and recurrent network models of representational stability and drift.
-- <a class="cv" href="https://krisjensen.github.io//files/stability.pdf">Jensen et al. (2021)</a>
+- <a class="cv" href="https://krisjensen.github.io//files/stability_nn.pdf">Jensen et al. (2022)</a>
 
 <p style="padding-bottom:-8px; margin-bottom:-8px"> <b>Janelia Research Campus (2018 - 2019)</b> </p>
 
 Supervisor: <a class="cv" href="https://www.janelia.org/lab/jayaraman-lab">Professor Vivek Jayaraman</a>
 
-- Analysis of electron miscroscopy \& RNAseq data from the fly head direction circuit.\\
+- Analysis of electron miscroscopy \& RNAseq data from the fly head direction circuit.\
 - Development of experimentally inspired biophysical and recurrent network models.
 - <a class="cv" href="https://krisjensen.github.io//files/cx.pdf">Turner-Evans et al. (2020)</a>
 
@@ -80,7 +80,7 @@ Supervisor: <a class="cv" href="https://www.janelia.org/lab/jayaraman-lab">Profe
 
 Supervisor: <a class="cv" href="https://www.ch.cam.ac.uk/group/thom/dr-alex-thom">Dr Alex Thom</a>
 
-- Development of a Hartree Fock-based method for modeling electron transfer reactions. \\
+- Development of a Hartree Fock-based method for modeling electron transfer reactions.\
 - Characterization of the electronic states in a computational model of a solar cell.
 - <a class="cv" href="https://krisjensen.github.io//files/ET.pdf">Jensen et al. (2018)</a>
 
@@ -88,7 +88,7 @@ Supervisor: <a class="cv" href="https://www.ch.cam.ac.uk/group/thom/dr-alex-thom
 
 Supervisor: <a class="cv" href="https://pure.au.dk/portal/en/persons/yonglun-luo(0ede9a3b-a5fc-48be-a214-5c67e5df02db).html">Dr Yonglun Luo</a>
 
-- Investigation of factors affecting the efficiency of CRISPR/Cas9 for genome editing. \\
+- Investigation of factors affecting the efficiency of CRISPR/Cas9 for genome editing.\
 - Design of new CRISPR-based tools for improved genomic and epigenomic control.
 - <a class="cv" href="https://krisjensen.github.io//files/crispr.pdf">Jensen et al. (2017)</a>
 
