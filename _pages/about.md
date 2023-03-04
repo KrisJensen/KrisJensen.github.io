@@ -27,9 +27,13 @@ Before moving into neuroscience, I graduated with a BA in Natural Sciences from 
 <p>(If using the up/down arrows annoyingly also scolls the page, try holding the Shift key at the same time.)</p>
 </div>
 <br>
+
 <div style=text-align:center id=rl-game-demo></div>
+
 <script defer src="https://cbl-cambridge.org/publications/jensen-biorxiv-2023-demo.js"></script>
 
-## mGPLVM -- Beyond the Euclidean Brain (Bernstein Conference 2020)
+## mGPLVM -- Beyond the Euclidean brain (Bernstein Conference 2020)
+
+<a class="cv" href="https://krisjensen.github.io//files/mgplvm.pdf">Link to paper</a>
 
 {% include googleDrivePlayer.html id=page.driveId %}
