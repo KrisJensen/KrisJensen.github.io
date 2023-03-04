@@ -35,7 +35,7 @@ Supervisor: <a class="cv" href="https://https://hennequin-lab.github.io/">Dr Gui
 
 - Development of Bayesian latent variable models for neural population recodings (<a class="cv" href="https://krisjensen.github.io//files/mgplvm.pdf">Jensen et al. 2020</a>, <a class="cv" href="https://krisjensen.github.io//files/bgpfa.pdf">Jensen & Kao et al. 2021</a>).
 - Continual learning in biological motor circuits and for AI (<a class="cv" href="https://krisjensen.github.io//files/stability.pdf">Jensen et al. 2022</a>, <a class="cv" href="https://krisjensen.github.io//files/ncl.pdf">Kao & Jensen et al. 2021</a>).
-- Planning and decision making in biological and artificial agents (<a class="cv" href="https://krisjensen.github.io//files/planning.pdf">Jensen et al. 2023</a>.
+- Planning and decision making in biological and artificial agents (<a class="cv" href="https://krisjensen.github.io//files/planning.pdf">Jensen et al. 2023</a>).
 
 <p style="padding-bottom:-8px; margin-bottom:-8px"> <b>MPhil Computational Biology (2018 - 2019)</b> </p>
 
