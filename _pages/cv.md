@@ -30,7 +30,7 @@ a.cv:visited {
 
 <p style="padding-bottom:-8px; margin-bottom:-8px"> <b>PhD Computational Neuroscience (2019 - present)</b> </p>
 
-University of Cambridge
+University of Cambridge\
 Supervisor: <a class="cv" href="https://https://hennequin-lab.github.io/">Dr Guillaume Hennequin</a>
 
 - Development of Bayesian latent variable models for neural population recodings (<a class="cv" href="https://krisjensen.github.io//files/mgplvm.pdf">Jensen et al. 2020</a>, <a class="cv" href="https://krisjensen.github.io//files/bgpfa.pdf">Jensen & Kao et al. 2021</a>).
