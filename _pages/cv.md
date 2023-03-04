@@ -35,7 +35,7 @@ Supervisor: <a class="cv" href="https://https://hennequin-lab.github.io/">Dr Gui
 
 - Development of Bayesian latent variable models for neural population recodings (<a class="cv" href="https://krisjensen.github.io//files/mgplvm.pdf">Jensen et al. 2020</a>, <a class="cv" href="https://krisjensen.github.io//files/bgpfa.pdf">Jensen & Kao et al. 2021</a>).
 - Continual learning in biological motor circuits and for AI (<a class="cv" href="https://krisjensen.github.io//files/stability.pdf">Jensen et al. 2022</a>, <a class="cv" href="https://krisjensen.github.io//files/ncl.pdf">Kao & Jensen et al. 2021</a>).
-- Planning and decision making in biological and artificial agents.
+- Planning and decision making in biological and artificial agents (<a class="cv" href="https://krisjensen.github.io//files/planning.pdf">Jensen et al. 2023</a>.
 
 <p style="padding-bottom:-8px; margin-bottom:-8px"> <b>MPhil Computational Biology (2018 - 2019)</b> </p>
 
@@ -50,7 +50,7 @@ Supervisor: <a class="cv" href="https://olveczkylab.oeb.harvard.edu/">Professor 
 University of Cambridge
 Result: First Class Honors (82.7/100; 1<sup>st</sup> of 112 students)
 
-- Specialization: Molecular Biology & Theoretical Chemistry
+- Specialization: Molecular biology & theoretical chemistry
 
 ## Research
 
@@ -101,7 +101,7 @@ Supervisor: <a class="cv" href="https://pure.au.dk/portal/en/persons/yonglun-luo
 <p style="padding-bottom:-8px; margin-bottom:-8px"> <b>University of Cambridge </b> </p>
 
 - Teaching Assistant - 3rd year computational neuroscience (2020 & 2022)
-- Supervisor (Teaching Assistant) - 3rd year mathematical electrophysiology (2021)
+- Supervisor (Teaching Assistant) - 3rd year mathematical electrophysiology (2021 & 2023)
 - Supervisor (Teaching Assistant) - 3rd year theoretical chemistry (2018-2020)
 
 ## Awards
