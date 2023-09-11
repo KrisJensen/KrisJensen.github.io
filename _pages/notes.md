@@ -63,6 +63,18 @@ Policy gradient methods
 Policy gradient methods are commonly used to train deep neural networks in a reinforcement learning setting, and we also use this approach to train our RL agents in Jensen et al. (2023).
 In this note, we provide a brief overview of the reinforcement learning problem setting and then derive some simple policy gradient methods including REINFORCE and actor critic reinforcement learning.
 
+<p style="padding-bottom:-12px; margin-bottom:-12px; padding-top:8px; margin-top:8px">
+<a style="font-size:1.3em" class="blog" href="http://KrisJensen.github.io/files/notes/supervised_mgplvm.pdf">
+Supervised manifold GPLVMs
+</a>
+</p>
+
+{: style="text-align: justify" }
+In Jensen et al. (2020), we developed a new method for latent variable modeling on non-Euclidean manifolds.
+However, another common problem is to perform _supervised learning_ in such non-Euclidean spaces.
+This is desirable e.g. if we want to fit a model to predict head direction from neural data and then test the model during periods without labelled data, such as during sleep or mental processing.
+In this note, we build on our mGPLVM work to develop a GP-based model for supervised learning from neural data in non-Euclidean settings and demonstrate its utility over common methods used in the neuroscience literature.
+
 <!-- <p style="padding-bottom:-12px; margin-bottom:-12px; padding-top:8px; margin-top:8px">
 <a style="font-size:1.3em" class="blog" href="http://KrisJensen.github.io/files/blog_stability.pdf">
 An algorithmic hypothesis of differential neural stability in the brain
@@ -72,15 +84,6 @@ An algorithmic hypothesis of differential neural stability in the brain
 {: style="text-align: justify" }
 There is a long-running debate in the neuroscience community about whether task-specific neural representations are stable after task learning or whether they drift in some null-space that does not affect task performance, and there is a large body of experimental support for both hypotheses in different brain regions and contexts.
 In this short note, we consider how differences in neural stability between brain regions may reflect different algorithmic approaches to addressing the challenge of continual learning, drawing inspiration from both the machine learning literature on continual learning and the neuroscience literature on neural stability and memory consolidation. -->
-
-<!-- <p style="padding-bottom:-12px; margin-bottom:-12px; padding-top:8px; margin-top:8px">
-<a style="font-size:1.3em" class="blog" href="http://KrisJensen.github.io/files/blog_stability.pdf">
-Supervised manifold GPLVMs
-</a>
-</p>
-
-{: style="text-align: justify" }
-We can extend mGPLVM to be used for supervised learning. -->
 
 <!-- <p style="padding-bottom:-12px; margin-bottom:-12px; padding-top:8px; margin-top:8px">
 <a style="font-size:1.3em" class="blog" href="http://KrisJensen.github.io/files/blog_stability.pdf">
