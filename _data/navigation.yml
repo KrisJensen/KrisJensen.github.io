@@ -12,5 +12,8 @@ main:
   #- title: Blog
   #  url: /blog/
 
+  - title: "Miscellaneous notes"
+    url: /notes/
+
   - title: "CV"
     url: /cv/
