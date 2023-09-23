@@ -75,6 +75,29 @@ However, another common problem is to perform _supervised learning_ in such non-
 This is desirable e.g. if we want to fit a model to predict head direction from neural data and then test the model during periods without labelled data, such as during sleep or mental processing.
 In this note, we build on our mGPLVM work to develop a GP-based model for supervised learning from neural data in non-Euclidean settings and demonstrate its utility over common methods used in the neuroscience literature.
 
+<p style="padding-bottom:-12px; margin-bottom:-12px; padding-top:8px; margin-top:8px">
+<a style="font-size:1.3em" class="blog" href="https://colab.research.google.com/drive/1feqZiYe5MEOSzMzpZ_v8AxfwK_qtE3ST?usp=sharing">
+Colab tutorial on Gaussian processes
+</a>
+</p>
+
+<p style="padding-bottom:-12px; margin-bottom:-12px; padding-top:8px; margin-top:8px">
+<a style="font-size:1.3em" class="blog" href="https://colab.research.google.com/drive/1Q-Qy8LM_Xn52g4dYycPRaBx0sMsti4_U?usp=sharing">
+Colab tutorial on Bayesian GPFA
+</a>
+</p>
+
+<p style="padding-bottom:-12px; margin-bottom:-12px; padding-top:8px; margin-top:8px">
+<a style="font-size:1.3em" class="blog" href="https://colab.research.google.com/drive/1C7x5u4cMsH5f4i261Yz81zgDHgcJ-_MY?usp=sharing">
+Colab tutorial on supervised manifold GPLVMs
+</a>
+</p>
+
+{: style="text-align: justify" }
+During the first two years of my PhD, I spent a substantial amount of time developing latent variable models for neuroscience, mostly using the tools of the 'Gaussian process' toolbox.
+Since then, I have given various tutorials on Gaussian processes and the supervised & latent variable models that can be developed from then.
+Several of these tutorials were associated with Google colabs to allow participants to explore the models on their own, and I have included some of these colab notebooks here.
+
 <!-- <p style="padding-bottom:-12px; margin-bottom:-12px; padding-top:8px; margin-top:8px">
 <a style="font-size:1.3em" class="blog" href="http://KrisJensen.github.io/files/blog_stability.pdf">
 An algorithmic hypothesis of differential neural stability in the brain
