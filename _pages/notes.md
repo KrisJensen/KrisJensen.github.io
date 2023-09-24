@@ -96,7 +96,7 @@ Colab tutorial on supervised manifold GPLVMs
 {: style="text-align: justify" }
 During the first two years of my PhD, I spent a substantial amount of time developing latent variable models for neuroscience, mostly using the tools of the 'Gaussian process' toolbox.
 Since then, I have given various tutorials on Gaussian processes and the supervised & latent variable models that can be developed from them.
-Several of these tutorials were associated with Google colabs to allow participants to explore the models on their own, and I have included some of these colab notebooks here.
+Several of these tutorials included Google colabs to allow participants to explore the models on their own, and I have included some of these notebooks here.
 
 <!-- <p style="padding-bottom:-12px; margin-bottom:-12px; padding-top:8px; margin-top:8px">
 <a style="font-size:1.3em" class="blog" href="http://KrisJensen.github.io/files/blog_stability.pdf">
