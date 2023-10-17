@@ -21,8 +21,10 @@ Finally, we investigated how humans and animals generalize to new tasks and adap
 Before starting my PhD, I worked with the Ölveczky lab as part of my MPhil in Computational Biology, and with Vivek Jayaraman at Janelia Research Campus as a Janelia Undergraduate Scholar (see projects and publications for details).
 Before moving into neuroscience, I graduated with a BA in Natural Sciences from Cambridge where I did courses and research in both molecular biology and theoretical chemistry, and I continue to be interested in interdisciplinary research spanning the biological and physical sciences.
 
+<!---
 ## mGPLVM -- Beyond the Euclidean brain (Bernstein Conference 2020)
 
 <a class="cv" href="https://proceedings.neurips.cc/paper/2020/hash/fedc604da8b0f9af74b6cfc0fab2163c-Abstract.html">Link to paper</a>
 
 {% include googleDrivePlayer.html id=page.driveId %}
+-->
