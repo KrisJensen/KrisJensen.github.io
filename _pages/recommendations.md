@@ -75,6 +75,13 @@ This tutorial provides a very useful overview of the policy gradient methods tha
 ## Papers
 
 {: style="text-align: justify" }
+<a class="rec" href="https://www.biorxiv.org/content/10.1101/2023.09.05.556348v1">Motor cortex is required for flexible but not automatic motor sequences</a><br>
+<b>Kevin Mizes et al. (2023)</b><br>
+Motor learning is an important area of interest to systems neuroscientists, but it remains unclear what the contributions of different mammalian motor systems are for motor learning and memory.
+Mizes et al. show that motor cortex is necessary for learning and executing a flexible motor task that involves following a cued sequence of movements.
+However, motor cortex is _not_ required when performing the same motor sequence in an 'automatic' or overtrained setting, suggesting that a primary role of primary motor cortex may be to provide contextual information to downstream motor circuits.
+
+{: style="text-align: justify" }
 <a class="rec" href="https://www.nature.com/articles/s41586-021-03506-2">High-performance brain-to-text communication via handwriting</a><br>
 <b>Francis Willett et al. (2021)</b><br>
 Brain-computer interfaces is a rapidly growing field with great advances in both academic research and industry over the past decade.
