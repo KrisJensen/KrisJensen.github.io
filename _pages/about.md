@@ -10,7 +10,7 @@ redirect_from:
 ---
 
 {: style="text-align: justify" }
-I am a Senior Research fellow in the Sainsbury Wellcome Centre at UCL, where I work with Professor Timothy Behrens.
+I am a Senior Research Fellow in the Sainsbury Wellcome Centre at UCL, where I work with Professor Timothy Behrens.
 The focus of my research is to use computational and mathematical approaches to investigate the neural computations underlying flexible behaviour and decision making in changing natural environments.
 Prior to this postdoc, I was a PhD student and Cambridge Gates scholar with Guillaume Hennequin in the Computational and Biological Learning Lab at the University of Cambridge.
 We developed a suite of Bayesian machine learning tools for analysing neural population recordings in order to better understand how neural circuit dynamics give rise to biological function.
