@@ -75,6 +75,15 @@ This tutorial provides a very useful overview of the policy gradient methods tha
 ## Papers
 
 {: style="text-align: justify" }
+<a class="rec" href="https://www.science.org/doi/full/10.1126/science.adh5206">Volitional activation of remote place representations with a hippocampal brain–machine interface</a><br>
+<b>Chongxi Lai et al. (2023)</b><br>
+It has long been known that the firing patterns of cells in the hippocampus reflect the structure of the environment.
+It has also been posited that 'offline' hippocampal activity in the form of replays could implement a form of planning through a process of imagination.
+However, this and other theories rely on animals having the ability to change what is being represented in hippocampus at will.
+In this paper, Lai et al. show that animals do have such volitional control over hippocampal activity.
+They do this by training rats in a brain-computer interface task, where they succesfully learn to control their hippocampal activity to represent distant locations.
+
+{: style="text-align: justify" }
 <a class="rec" href="https://www.biorxiv.org/content/10.1101/2023.09.05.556348v1">Motor cortex is required for flexible but not automatic motor sequences</a><br>
 <b>Kevin Mizes et al. (2023)</b><br>
 Motor learning is an important area of interest to systems neuroscientists, but it remains unclear what the contributions of different mammalian motor systems are for motor learning and memory.
