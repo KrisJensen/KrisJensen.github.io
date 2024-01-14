@@ -3,7 +3,7 @@ title: "Long-term stability of single neuron activity in the motor system"
 collection: publications
 permalink: /publication/stability
 date: 2022-11-10
-venue: "Nature neuroscience"
+venue: "Nature Neuroscience"
 paperurl: "https://www.nature.com/articles/s41593-022-01194-3"
 paperpdf: "https://krisjensen.github.io/files/stability_nn.pdf"
 authors: "<b>Kristopher T. Jensen</b>, Naama Kadmon Harpaz, Ashesh K. Dhawale, Steffen B. E. Wolff, Bence P. Ölveczky"

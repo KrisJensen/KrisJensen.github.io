@@ -3,7 +3,7 @@ title: "A recurrent network model of planning explains hippocampal replay and hu
 collection: publications
 permalink: /publication/planning
 date: 2023-01-19
-venue: "bioRxiv"
+venue: "Nature Neuroscience (in press)"
 paperurl: "https://www.biorxiv.org/content/10.1101/2023.01.16.523429"
 paperpdf: "https://krisjensen.github.io/files/planning.pdf"
 authors: "<b>Kristopher T. Jensen</b>, Guillaume Hennequin*, Marcelo Mattar*"
