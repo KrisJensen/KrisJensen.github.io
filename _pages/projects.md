@@ -35,6 +35,7 @@ It has previously been suggested that this flexibility is facilitated by fast ne
 However, a notable feature of human behaviour that these models fail to capture is the ability to perform temporally extended planning using an internal model of the environment.
 Together with Marcelo Mattar and Guilllaume Hennequin, we investigate how such ‘simulation-based planning’ can help reinforcement learning agents adapt to new environments.
 We also demonstrate substantial similarities bewtween this model and both human behaviour and rodent hippocampal replays recorded by John Widloski during a spatial navigation task.
+More recently, in work with Tim Behrens, we have started to develop more detailed mechanistic models of planning in prefrontal cortex both in the presence and absence of hippocampal replays.
 
 ## Natural continual learning
 
