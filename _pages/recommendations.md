@@ -75,6 +75,14 @@ This tutorial provides a very useful overview of the policy gradient methods tha
 ## Papers
 
 {: style="text-align: justify" }
+<a class="rec" href="https://www.biorxiv.org/content/10.1101/2023.11.28.568960v1">High-capacity flexible hippocampal associative and episodic memory enabled by prestructured “spatial” representations</a><br>
+<b>Sarthak Chandra et al. (2024)</b><br>
+The hippocampal formation is essential both for spatial reasoning, but also for memory formation and retrieval more generally.
+In this paper, Chandra et al. provide a unifying theory of the roles of hippocampus in spatial reasoning and memory by developing an associative memory network with a fixed 'spatial' scaffold, which can be used to store spatial or non-spatial memories via Hebbian plasticity.
+This generalizes ideas from classical Hopfield networks while improving their storage capacity and avoiding catastrophic forgetting.
+The paper combines elegant mathematical analyses with impressive simulation results to provide an interesting new mechanistic take on the hippocampal formation.
+
+{: style="text-align: justify" }
 <a class="rec" href="https://www.science.org/doi/full/10.1126/science.adh5206">Volitional activation of remote place representations with a hippocampal brain–machine interface</a><br>
 <b>Chongxi Lai et al. (2023)</b><br>
 It has long been known that the firing patterns of cells in the hippocampus reflect the structure of the environment.
