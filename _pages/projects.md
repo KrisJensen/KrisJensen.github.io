@@ -26,11 +26,11 @@ a.rec:visited {
 
 {% include base_path %}
 
-## Meta-learning to plan with recurrent neural networks
+## An attractor model of planning in PFC
 
 {: style="text-align: justify" }
-<img src="https://krisjensen.github.io/images/attractor_schematic.png" alt="pretty picture" width="35%" style="padding-right: 1%; padding-top: 0.5%; float: left;">
-Prefrontal cortex has been implicated in planning, decision making, sequence working memory, and many other complex cognitive tasks requiring contemplations of the future.
+<img src="https://krisjensen.github.io/images/attractor_schematic.png" alt="pretty picture" width="35%" style="padding-right: 4%; padding-top: 0.5%; float: left;">
+Prefrontal cortex has been implicated in planning, decision making, sequence working memory, and many other cognitive functions requiring contemplations of the future.
 However, little is known about the neural computations underlying these high-level processes.
 Recent work by Xie et al. (2022), El-Gaby et al. (2023), and others have demonstrated a conjunctive representation of space and time in PFC during sequence working memory tasks, whereby separate neural subspaces encode the desired state of the world at different times into the future.
 Together with Tim Behrens, we are now investigating whether similar conjunctive spacetime representations could form a neural substrate of _planning_ in frontal cortex, by developing neural networks with attractor dynamics that converge to valid plans through space and time.
