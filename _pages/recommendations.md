@@ -34,6 +34,12 @@ Here is a short list of talks, tutorials and papers that I've found particularly
 ## Talks
 
 {: style="text-align: justify" }
+<a class="rec" href="https://www.youtube.com/watch?v=Y8Ke6HCGqhc&t=3022s">The neural coding of internal states underlying innate social behaviors</a><br>
+<b>David Anderson (2024)</b><br>
+This talk is a beautiful overview of a journey to understand the neural basis of aggression and other innate social behaviours.
+It uses a combination of computational modelling and causal perturbations to convincingly demonstrate the presence of a line attractor network in hypothalamus that controls some of these fundamental behaviours.
+
+{: style="text-align: justify" }
 <a class="rec" href="https://www.youtube.com/watch?v=E29uad2FUVE&t=280s">About a biological ring attractor network</a><br>
 <b>Vivek Jayaraman (2020)</b><br>
 The human brain has ~100 billion neurons, the mouse brain ~100 million, and the fly brain just 100,000. However, we're increasingly beginning to understand how function and cognition arises from these 100,000 fly neurons, and this talk gives an awesome overview of how this understanding emerges in the context of the <i>Drosophila</i> navigation system.
@@ -73,6 +79,13 @@ Walks through how to set up a new project, write modular code, and how to test a
 This tutorial provides a very useful overview of the policy gradient methods that underlie much of modern reinforcement learning, and Sham Kakade does an excellent job explaining things in a way that provides intuition to accompany the equations.
 
 ## Papers
+
+{: style="text-align: justify" }
+<a class="rec" href="https://www.biorxiv.org/content/10.1101/2024.08.13.607810v1">The brain simulates actions and their consequences during REM sleep</a><br>
+<b>Yuta Senzai and Massimo Scanziani (2024)</b><br>
+This paper beautifully demonstrates that an internal world model continues to operate while animals sleep.
+In particular, they show that the internal representation of heading remains under the control of the superior colliculus during REM sleep.
+Remarkably, when the superior colliculus is unilaterally silenced, the animal can only imagine rotating in the contralateral direction to the intact hemisphere!
 
 {: style="text-align: justify" }
 <a class="rec" href="https://www.biorxiv.org/content/10.1101/2023.11.28.568960v1">High-capacity flexible hippocampal associative and episodic memory enabled by prestructured “spatial” representations</a><br>
